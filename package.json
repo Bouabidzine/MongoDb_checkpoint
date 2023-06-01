@@ -1,0 +1,15 @@
+{
+  "name": "mongodb_checkpoint",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bouabid",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^5.5.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
